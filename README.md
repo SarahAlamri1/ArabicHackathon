@@ -1,4 +1,4 @@
-# MusicInstruments
-Project that detects music instruments in a sound.
+# ArabicHackathon
+A project that explores the pronunciation of phonetic Arabic letters.
 
-Source code for the post: https://martinmitrevski.com/2019/12/09/sound-classification-with-create-ml-on-ios-13/.
+
